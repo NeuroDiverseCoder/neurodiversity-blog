@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Nebula | Hugo blog template</title>
+    <link>http://demo.themefisher.com/nebula-hugo/categories/</link>
+    <description>Recent content in Categories on Nebula | Hugo blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2020 12:14:34 +0600</lastBuildDate><atom:link href="http://demo.themefisher.com/nebula-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>article</title>
+      <link>http://demo.themefisher.com/nebula-hugo/categories/article/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://demo.themefisher.com/nebula-hugo/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audio</title>
+      <link>http://demo.themefisher.com/nebula-hugo/categories/audio/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://demo.themefisher.com/nebula-hugo/categories/audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>http://demo.themefisher.com/nebula-hugo/categories/book/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://demo.themefisher.com/nebula-hugo/categories/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>http://demo.themefisher.com/nebula-hugo/categories/video/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://demo.themefisher.com/nebula-hugo/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>other</title>
+      <link>http://demo.themefisher.com/nebula-hugo/categories/other/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://demo.themefisher.com/nebula-hugo/categories/other/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
