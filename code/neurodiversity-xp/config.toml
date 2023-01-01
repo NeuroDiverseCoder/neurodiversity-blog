@@ -1,7 +1,7 @@
 publishDir = "../../docs"
 
 ######################## default configuration ####################
-baseURL = "https://www.neurodiversity-xp.net"
+baseURL = "neurodiversity-xp.net"
 title = "NDXP"
 theme = "nebula"
 languageName = "En"
