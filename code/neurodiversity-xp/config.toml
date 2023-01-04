@@ -61,7 +61,7 @@ author = "Themefisher"
 # sidebar portrait
 portrait = "images/author.png"
 # sidebar bio
-bio = "In this blog you will find the content about people who are Neuro Diverse. Hopefully this will be helpful to you. If you would like to share your experience in this blog, see this page (https://contributing.ndxp.net) to share your experience. We can help you add content anonymously if you want. Remember, if you think you need professional help with your neuro diversity, you should seek out one."
+bio = "In this blog you will find the content about people who are Neuro Diverse. Hopefully this will be helpful to you. If you would like to share your experience in this blog, **[CLICK HERE here to see how to share your experience](https://github.com/NeuroDiverseCoder/neurodiversity-blog/blob/main/README.md)**. We can help you add content anonymously if you want. Remember, if you think you need professional help with your neuro diversity, you should seek out one."
 # copyright
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
 
